@@ -1,5 +1,5 @@
 [![MasterHead](https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/2/a/02a4b92048705c6530bc0c6a48d2cf9fcb6a74d9.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sajana Akash</h1>
+<h1 align="center">Hi 👋, I'm Sajana Akash !</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Cocing" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
@@ -36,4 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajana-akash&show_icons=true&locale=en" alt="sajana-akash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajana-akash&" alt="sajana-akash" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajana-akash&" alt="sajana-akash" /></p> -->
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sajana-akash&theme=dark)
+<!-- 
