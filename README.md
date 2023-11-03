@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">My name is Sajana Akash and  I’m a Passionate Software Engineer, from 🇱🇰<br>- 🔭 I’m currently an Undergraduate at National Institute of Business Management<br>- 📚 I’m currently learning React Native<br>- 👯 I’m looking to collaborate on Fronted Development & UI/UX Designing<br>- 💬 Ask me about Android, MEARN<br>- 📫 How to reach me sajanaakashweerathunga@gmail.com<br>- ⚡ Fun fact I am Funny</p>
+<p align="left">My name is Sajana Akash and  I’m a Passionate Software Engineer, from Sri Lanka<br>- 🔭 I’m currently an Undergraduate at National Institute of Business Management<br>- 📚 I’m currently learning React Native<br>- 👯 I’m looking to collaborate on Fronted Development & UI/UX Designing<br>- 💬 Ask me about Android, MEARN<br>- 📫 How to reach me sajanaakashweerathunga@gmail.com<br>- ⚡ Fun fact I am Funny</p>
 
 ###
 
