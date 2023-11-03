@@ -126,9 +126,4 @@
   <img src="https://streak-stats.demolab.com?user=sajanaakashweerathunga&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=0&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/sajanaakashweerathunga/sajanaakashweerathunga/output/snake.svg" alt="Snake animation" />
-
-###
 
