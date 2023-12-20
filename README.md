@@ -132,3 +132,18 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/sajanaakashweerathunga/sajanaakashweerathunga/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sajanaakashweerathunga/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
