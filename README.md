@@ -125,21 +125,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajanaakashweerathunga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sajanaakashweerathunga&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=50&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sajanaakashweerathunga/count.svg?"  />
 </div>
 
-###
+
 
 <div align="center">
 </div>
 
-###
+
